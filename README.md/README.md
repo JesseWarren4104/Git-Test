@@ -1,0 +1,1 @@
+Due to my passing knowledge of Git, my knowledge being the simple action of making .cpp files and sending them to GitHub, I plan to use this repo to practice using commands and navigation. In the long run, it would be best to get a better understand so my life can be made easier when it comes to future classes or more assignments. 
